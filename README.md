@@ -1,5 +1,7 @@
 #express 4.x cross stylus middleware demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/express-stylus.svg)](https://greenkeeper.io/)
+
 this is a simple demo for express 4.x using stylus middleware
 
 how to run:
